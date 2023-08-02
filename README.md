@@ -1,4 +1,4 @@
-# Hi There, I am Danil Kharytonov :computer: 
+# Hi There, I am Danylo Kharytonov :computer: 
 
 I'm an Android developer! Welcome to my GitHub!
 
